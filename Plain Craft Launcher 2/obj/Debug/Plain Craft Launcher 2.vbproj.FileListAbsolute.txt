@@ -1,0 +1,145 @@
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Plain Craft Launcher 2.vbproj.AssemblyReference.cache
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Controls\MyExtraButton.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Controls\MyListItem.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Controls\MyButton.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Controls\MyCheckBox.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Controls\MyIconButton.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Controls\MyLoading.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Controls\MyRadioBox.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Controls\MyIconTextButton.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Controls\MySlider.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Controls\MyRadioButton.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Controls\MyExtraTextButton.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Controls\MyExtraButton.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Controls\MyHint.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Controls\MyListItem.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Controls\MyButton.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Controls\MyCheckBox.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Controls\MyIconButton.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Controls\MyLoading.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Controls\MyMsg\MyMsgInput.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Controls\MyMsg\MyMsgSelect.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Controls\MyMsg\MyMsgText.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Controls\MyRadioBox.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Controls\MyIconTextButton.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Controls\MySearchBox.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Controls\MySlider.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Controls\MyRadioButton.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\FormMain.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageInstance\MyLocalModItem.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageDownload\Resource\MyResourceItem.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageDownload\Resource\PageResource.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageDownload\Resource\PageDownloadDataPack.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageDownload\Resource\PageDownloadPack.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageDownload\Resource\PageDownloadShader.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageDownload\Resource\PageDownloadResourcePack.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageDownload\Resource\PageDownloadMod.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageDownload\PageDownloadInstall.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageDownload\Resource\PageDownloadCompDetail.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageLaunch\MyMsgLogin.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageLaunch\PageLoginAuth.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageLaunch\PageLoginAuthSkin.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageLaunch\PageLoginMs.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageLaunch\PageLoginMsSkin.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageLaunch\PageLoginNideSkin.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageLink\PageLinkMain.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageOther\PageOtherHelpDetail.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageInstance\PageInstanceExport.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageOther\PageOtherTest.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageLaunch\MySkin.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageLaunch\PageLoginNide.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageLaunch\PageLoginLegacy.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageSelectRight.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageSelectLeft.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageLaunch\PageLaunchLeft.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageLaunch\PageLaunchRight.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageOther\PageOtherAbout.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageOther\PageOtherHelp.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageDownload\PageDownloadLeft.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageOther\PageOtherLeft.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageSetup\PageSetupLeft.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageSetup\PageSetupLaunch.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageSetup\PageSetupSystem.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageSetup\PageSetupLink.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageSetup\PageSetupUI.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageSpeedLeft.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageSpeedRight.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageInstance\PageInstanceLeft.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageInstance\PageInstanceMod.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageInstance\PageInstanceModDisabled.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageInstance\PageInstanceOverall.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageInstance\PageInstanceSetup.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\GeneratedInternalTypeHelper.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Plain Craft Launcher 2_MarkupCompile.cache
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Plain Craft Launcher 2_MarkupCompile.lref
+N:\开源软件\PCL\Plain Craft Launcher 2\bin\Plain Craft Launcher 2.exe.config
+N:\开源软件\PCL\Plain Craft Launcher 2\bin\Plain Craft Launcher 2.exe
+N:\开源软件\PCL\Plain Craft Launcher 2\bin\Plain Craft Launcher 2.pdb
+N:\开源软件\PCL\Plain Craft Launcher 2\bin\Plain Craft Launcher 2.xml
+N:\开源软件\PCL\Plain Craft Launcher 2\bin\MeloongCore.dll
+N:\开源软件\PCL\Plain Craft Launcher 2\bin\MeloongCore.Wpf.dll
+N:\开源软件\PCL\Plain Craft Launcher 2\bin\PCLCS.dll
+N:\开源软件\PCL\Plain Craft Launcher 2\bin\Microsoft.Win32.Registry.dll
+N:\开源软件\PCL\Plain Craft Launcher 2\bin\MeloongCore.pdb
+N:\开源软件\PCL\Plain Craft Launcher 2\bin\MeloongCore.Wpf.pdb
+N:\开源软件\PCL\Plain Craft Launcher 2\bin\PCLCS.pdb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Application.g.vb
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Application.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Controls\MyExtraTextButton.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Controls\MyHint.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Controls\MyMsg\MyMsgInput.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Controls\MyMsg\MyMsgSelect.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Controls\MyMsg\MyMsgText.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Controls\MySearchBox.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\FormMain.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageInstance\MyLocalModItem.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageDownload\Resource\MyResourceItem.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageDownload\Resource\PageResource.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageDownload\Resource\PageDownloadDataPack.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageDownload\Resource\PageDownloadPack.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageDownload\Resource\PageDownloadShader.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageDownload\Resource\PageDownloadResourcePack.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageDownload\Resource\PageDownloadMod.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageDownload\PageDownloadInstall.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageDownload\Resource\PageDownloadCompDetail.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageLaunch\MyMsgLogin.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageLaunch\PageLoginAuth.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageLaunch\PageLoginAuthSkin.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageLaunch\PageLoginMs.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageLaunch\PageLoginMsSkin.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageLaunch\PageLoginNideSkin.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageLink\PageLinkMain.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageOther\PageOtherHelpDetail.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageInstance\PageInstanceExport.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageOther\PageOtherTest.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageLaunch\MySkin.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageLaunch\PageLoginNide.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageLaunch\PageLoginLegacy.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageSelectRight.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageSelectLeft.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageLaunch\PageLaunchLeft.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageLaunch\PageLaunchRight.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageOther\PageOtherAbout.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageOther\PageOtherHelp.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageDownload\PageDownloadLeft.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageOther\PageOtherLeft.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageSetup\PageSetupLeft.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageSetup\PageSetupLaunch.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageSetup\PageSetupSystem.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageSetup\PageSetupLink.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageSetup\PageSetupUI.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageSpeedLeft.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageSpeedRight.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageInstance\PageInstanceLeft.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageInstance\PageInstanceMod.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageInstance\PageInstanceModDisabled.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageInstance\PageInstanceOverall.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Pages\PageInstance\PageInstanceSetup.baml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Plain Craft Launcher 2.g.resources
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\PCL.Resources.resources
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Plain Craft Launcher 2.vbproj.GenerateResource.cache
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Plain Craft Launcher 2.vbproj.CoreCompileInputs.cache
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Plain Cr.DC0E88B1.Up2Date
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Plain Craft Launcher 2.exe
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Plain Craft Launcher 2.xml
+N:\开源软件\PCL\Plain Craft Launcher 2\obj\Debug\Plain Craft Launcher 2.pdb
